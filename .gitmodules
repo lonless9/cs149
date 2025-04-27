@@ -1,0 +1,15 @@
+[submodule "asst1"]
+	path = asst1
+	url = https://github.com/stanford-cs149/asst1.git
+[submodule "asst2"]
+	path = asst2
+	url = https://github.com/stanford-cs149/asst2.git
+[submodule "asst3"]
+	path = asst3
+	url = https://github.com/stanford-cs149/asst3.git
+[submodule "asst4-trainium"]
+	path = asst4-trainium
+	url = https://github.com/stanford-cs149/asst4-trainium.git
+[submodule "biggraphs-ec"]
+	path = biggraphs-ec
+	url = https://github.com/stanford-cs149/biggraphs-ec.git
